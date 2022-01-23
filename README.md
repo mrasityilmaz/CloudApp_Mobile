@@ -39,7 +39,9 @@ Web kısmında PHP kullanıldı.
 
 
 
+## Web uygulamasının github linki
 
+**https://github.com/aydinyagizz/CloudApp_Web**
 
 
 # Uygulama Videoları
