@@ -11,6 +11,7 @@ Web kısmında PHP kullanıldı.
 
 
 ## Mobil Uygulama kısmında çalışan ekip üyeleri;
+
 ##-180541022 Muhammed Raşit Yılmaz - Mobile
 
 ##-175542006 Hamza Oban - Mobile 
@@ -41,24 +42,11 @@ Web kısmında PHP kullanıldı.
 
 
 
-# Uygulama Arayüzü
-![Screenshot_1642895608](https://user-images.githubusercontent.com/81583706/150686514-5fcf2113-aba8-4d3f-8e16-41e64870d940.png)
+# Uygulama Videoları
 
+https://we.tl/t-jsU7aIReOc
 
-![Screenshot_1642895658](https://user-images.githubusercontent.com/81583706/150686531-d46bb009-8f3a-47be-8f86-1d029eab2784.png)
-
-
-
-![Screenshot_1642895710](https://user-images.githubusercontent.com/81583706/150686552-2ee3a32f-9ad9-440b-a471-0053cb70e5a1.png)
-
-![Screenshot_1642895922](https://user-images.githubusercontent.com/81583706/150686557-5633a4bf-053b-43c6-bec2-16bbd1185276.png)
-
-
-![Screenshot_1642895927](https://user-images.githubusercontent.com/81583706/150686606-0647a527-dee8-48f3-9ff7-76a3ad55a7a5.png)
-
-
-
-![Screenshot_1642895931](https://user-images.githubusercontent.com/81583706/150686612-ab7c57b7-7cd2-4728-bb6d-11e0f6839db5.png)
+https://we.tl/t-z6Rqgy1vSv
 
 
 
