@@ -7,6 +7,9 @@ Proje Flutter ile geliştirdi.
 Web kısmında PHP kullanıldı.
 
 
+![ss](https://github.com/mrasityilmaz/CloudApp_Mobile/blob/main/preview.png)
+
+
 
 
 
